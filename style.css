@@ -1,0 +1,15 @@
+#videoElement {
+    width: 400px;
+    height: 400px;
+    background-color: antiquewhite;
+    border: 4px solid black;
+
+}
+
+#pic {
+    width: 400px;
+    height: 400px;
+    background-color: azure;
+    border: 4px solid black;
+
+}
