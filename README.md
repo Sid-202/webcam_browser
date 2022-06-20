@@ -1,4 +1,4 @@
-# webcam_browser
+# Webcam Browser
 
 A web application that uses computer webcam to get video stream, click picture and download to your computer. 
 
